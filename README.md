@@ -20,4 +20,4 @@ Into embedded systems, Printed Circuit Board (PCB) design, AI/ML, and image proc
 🌱 I’m currently learning Computer Vision<br/>
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Arralline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arralline_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Arralline/github-readme-stats)
+[![Arralline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arralline&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Arralline/github-readme-stats)
