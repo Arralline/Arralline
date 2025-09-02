@@ -8,17 +8,17 @@
 
 ###
 -->
-#
-<h1 align="left">Hi, I'm Arralline</h1>
 
-##
+<h1 align="left">Hi, I'm Arralline</h1>
 
 - Data Scientist and Machine Learning Engineer. <br>
 - Studied [Electrical Electronics Engineering](https://drive.google.com/file/d/1du6MBiUfXiGqrcjq09ciYBDHxNQPfEoh/view?usp=sharing) at the university of Jos, Plateau State, Nigeria<br/>
 - I am into embedded systems, Printed Circuit Board (PCB) design, AI/ML, and image processing. <br>
 - Adept at both independent work and collaboration, with strong project management and communication skills.<br>
-- Proven ability to meet goals through consistent and organized practices.<br/>
-- 📚 I'm currently learning Computer Vision
+- Proven ability to meet goals through consistent and organized practices.<br>
+- 📚 I'm currently learning Computer Vision. <br/>
+###
+<p align="center"><img src="Machine_Learning.png?raw=true" alt="earthml Logo"></p>
 
 ###
 
@@ -70,15 +70,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
-<p align="left"></p>
 
-###
+#
 
+ <h2 align="left">📫 Reach me through</h2>
+ 
+ ###
+<a href="mailto:mbaiarralline@gmail.com">
+    <img align="left" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a> <br/>
+
+
+#
 <h2 align="left">Socials</h2>
 
 ###
-
 
 <div align="left">
 
@@ -92,25 +98,24 @@
 
 <a href="https://youtube.com/@arrallinembai6173?si=JdbO6iFsZKIpqQjf">
     <img align="left" src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
+  </a> <br/>
 
 <!--
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   -->
 </div>
-  
 
-###
-
-<h3 align="left"></h3>
-
-###
-
+##
 <div align="left">
+
+<h2>Profile Views</h2><p align="left"> <img src="https://profile-counter.glitch.me/Arralline/count.svg" alt="Arralline" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arralline" alt="Arralline" /></a> </p>
+<div align="left">
+  </div>
   <h3 align="left">🔥   My Stats :</h3>
 </div>
 
@@ -122,3 +127,28 @@
 <!-- ## Most used language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arralline)](https://github.com/Arralline/github-readme-stats)
 -->
+
+#
+
+<div align="left">
+<form action="https://formspree.io/f/xnnbgagj" method="POST">
+  <label>
+    Your name:
+    <input type="text" name="name" required>
+  </label>
+  <label>
+    Your email:
+    <input type="email" name="email" required>
+  </label>
+  <label>
+    Subject:
+    <input type="text" name="_subject" required>
+  </label>
+  <label>
+    Your message:
+    <textarea name="message" required></textarea>
+  </label>
+  <button type="submit">Send</button>
+</form>
+
+</div>
