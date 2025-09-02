@@ -128,6 +128,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arralline)](https://github.com/Arralline/github-readme-stats)
 -->
 
+
+#
+<h2 align="left">📫 Send me a Message</h2>
+
+
+###
+<a href="mailto:mbaiarralline@gmail.com">
+  <img align="left" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
+
+
 #
 
 <div align="left">
