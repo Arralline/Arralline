@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Arraline 👋
 
 <!--
 **Arralline/Arralline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Data Scientist and Machine Learning Engineer<br/>
+Studied [Electrical Electronics Engineering](https://drive.google.com/file/d/1du6MBiUfXiGqrcjq09ciYBDHxNQPfEoh/view?usp=sharing) at the university of Jos, Plateau State, Nigeria<br/>
+Into embedded systems, Printed Circuit Board (PCB) design, AI/ML, and image processing<br/>
+🌱 I’m currently learning Computer Vision<br/>
+
+<!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Arralline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arralline_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Arralline/github-readme-stats)
