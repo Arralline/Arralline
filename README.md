@@ -8,14 +8,10 @@
 
 ###
 -->
-
+#
 <h1 align="left">Hi, I'm Arralline</h1>
 
-###
-
-<h3 align="left"></h3>
-
-###
+##
 
 - Data Scientist and Machine Learning Engineer. <br>
 - Studied [Electrical Electronics Engineering](https://drive.google.com/file/d/1du6MBiUfXiGqrcjq09ciYBDHxNQPfEoh/view?usp=sharing) at the university of Jos, Plateau State, Nigeria<br/>
