@@ -118,3 +118,7 @@
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Arralline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arralline&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Arralline/github-readme-stats)
+
+<!-- ## Most used language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arralline)](https://github.com/Arralline/github-readme-stats)
+-->
