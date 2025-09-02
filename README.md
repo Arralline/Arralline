@@ -1,3 +1,12 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
 <h1 align="left">Hi, I'm Arralline</h1>
 
 ###
@@ -6,15 +15,12 @@
 
 ###
 
-Data Scientist and Machine Learning Engineer. <br>
-  Studied [Electrical Electronics Engineering](https://drive.google.com/file/d/1du6MBiUfXiGqrcjq09ciYBDHxNQPfEoh/view?usp=sharing) at the university of Jos, Plateau State, Nigeria<br/>
-  I am into embedded systems, Printed Circuit Board (PCB) design, AI/ML, and image processing. <br>
-  Adept at both independent work and collaboration, with strong project management and communication skills.<br>
-  Proven ability to meet goals through consistent and organized practices.<br/>
-
-###
-
-<p align="left">🌱 I’m currently learning Computer Vision</p>
+- Data Scientist and Machine Learning Engineer. <br>
+- Studied [Electrical Electronics Engineering](https://drive.google.com/file/d/1du6MBiUfXiGqrcjq09ciYBDHxNQPfEoh/view?usp=sharing) at the university of Jos, Plateau State, Nigeria<br/>
+- I am into embedded systems, Printed Circuit Board (PCB) design, AI/ML, and image processing. <br>
+- Adept at both independent work and collaboration, with strong project management and communication skills.<br>
+- Proven ability to meet goals through consistent and organized practices.<br/>
+- 📚 I'm currently learning Computer Vision
 
 ###
 
@@ -86,6 +92,19 @@ Data Scientist and Machine Learning Engineer. <br>
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 </div>
+
+###
+
+<h3 align="left"></h3>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
