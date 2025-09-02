@@ -80,6 +80,11 @@
     <img align="left" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /> mbaiarralline@gmail.com
 </a> <br/>
 
+<section id="cv">
+  <h2>Curriculum Vitae</h2>
+  <p><a href="https://drive.google.com/file/d/1QLh7x00-W1mGE3Bm2bGSSbuQ9kDXQC9C/view?usp=sharing" target="_blank" rel="noopener">View my CV (PDF)</a></p>
+</section>
+
 
 #
 <h2 align="left">Socials</h2>
